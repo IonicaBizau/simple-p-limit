@@ -3,14 +3,10 @@
   "description": "A simple implementation of concurent promises with a limit.",
   "keywords": [
     "simple",
-    "p",
     "limit",
-    "a",
     "implementation",
-    "of",
     "concurent",
-    "promises",
-    "with"
+    "promises"
   ],
   "license": "MIT",
   "version": "1.0.0",
