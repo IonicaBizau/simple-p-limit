@@ -1,0 +1,47 @@
+{
+  "name": "simple-p-limit",
+  "description": "A simple implementation of concurent promises with a limit.",
+  "keywords": [
+    "simple",
+    "p",
+    "limit",
+    "a",
+    "implementation",
+    "of",
+    "concurent",
+    "promises",
+    "with"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "homepage": "https://github.com/IonicaBizau/simple-p-limit#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js",
+    "index.d.ts",
+    "package-lock.json",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/simple-p-limit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/simple-p-limit/issues"
+  }
+}
